@@ -8,8 +8,8 @@ sites:
 status-website:
   baseUrl: /jwt-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Pizza API Status
-  introTitle: "**Pizza API Status Page**"
+  name: JWT Pizza Status
+  introTitle: "**JWT Pizza Status Page**"
   introMessage: Monitoring uptime and response times for the Pizza service.
   navbar:
     - title: Status
